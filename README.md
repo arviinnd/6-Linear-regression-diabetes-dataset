@@ -11,6 +11,6 @@ serum measurements were obtained for each of n = 442 diabetes patients from the 
 3. Find the variance score
 4. Plot the regression line
 <br>
-Thansk and regards, <br>
+Thanks and regards, <br>
 Yours Sincerely <br>
 Narayanan Arvind
